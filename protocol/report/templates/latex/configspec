@@ -1,0 +1,12 @@
+[LANGUAGE]
+lang = string()
+
+[VARIABLES]
+title = string()
+subtitle = string()
+author = string()
+copyright = string()
+publisher = string()
+url = string()
+license = string()
+edition = string()
